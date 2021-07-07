@@ -1,0 +1,74 @@
+•PentestMonkey
+http://pentestmonkey.net/category/cheat-sheet
+
+•Penetration Testing Tools Cheat Sheet
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#vpn-pentesting-tools
+
+•Pentesting Cheat Sheets
+https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets
+
+•AllAboutBugBounty
+https://github.com/daffainfo/AllAboutBugBounty
+
+•Cloud Penetration Testing and Security
+https://medium.com/@mancusomjm/aws-azure-google-cloud-penetration-testing-resources-ca4b2bf1a4a6
+https://infosecwriteups.com/deep-dive-into-aws-penetration-testing-a99192a26898
+
+•Active Directory
+https://adsecurity.org
+https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
+https://www.hackingarticles.in/lateral-moment-on-active-directory-crackmapexec/
+https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+https://www.youtube.com/watch?v=YxeXfHkHAUI&ab_channel=PwnDefend
+https://medium.com/@browninfosecguy/active-directory-lab-for-penetration-testing-5d7ac393c0c4
+https://www.youtube.com/watch?v=L8fK5-oTSws&t=1s&ab_channel=TheCyberMentor
+
+•OWASP Write-Ups
+https://owasp-skf.gitbook.io/asvs-write-ups/
+
+•TryHackMe OSCP Path Review
+https://medium.com/@towardsnetwork/tryhackme-oscp-path-review-65f7c9cd4688
+https://medium.com/@wisdomgoody/review-oscp-path-tryhackme-e846c01ce47
+
+•WAF Evasion Techniques
+https://blog.isec.pl/waf-evasion-techniques/
+
+•Hacking Articles
+https://www.hackingarticles.in/penetration-testing/
+
+•Skills That a 'Next-Level' Pentester Should Have
+https://threatpost.com/skills-that-a-next-level-pentester-should-have/134416/
+
+•Security Stuff
+https://github.com/brampat/security
+
+•31 Days of API Security Tips
+https://github.com/inonshk/31-days-of-API-Security-Tips
+
+•Jenkins Pentesting
+https://github.com/gquere/pwn_jenkins
+
+•Keyhacks
+https://github.com/streaak/keyhacks
+
+•Deserialization Attacks - OWASP
+https://owasp.org/www-pdf-archive/Marshaller_Deserialization_Attacks.pdf.pdf
+
+•Google Cloud Associate Engineer - Question Dumps
+https://www.certification-questions.com/google-exam/associate-cloud-engineer-dumps.html
+https://www.examtopics.com/exams/google/associate-cloud-engineer/
+https://cloud.google.com/certification/sample-questions/cloud-engineer?hl=pt-br
+https://www.itexams.com/info/Associate%20Cloud%20Engineer
+https://drive.google.com/drive/folders/1Z0bKeusnOFNlsc3XP3vHM_m_DrdKaFmA
+https://gcp-examquestions.com/google-associate-cloud-engineer-practice-exam-part-1/
+https://medium.com/@samuel.lee753/free-flash-cards-practise-exams-for-getting-google-cloud-certified-ec206c398b4a
+https://ankiweb.net/shared/info/1346064888
+
+•Google Cloud
+https://cloud.google.com/security/best-practices
+
+•Log Management and Incident Response
+https://www.darkreading.com/attacks-breaches/why-are-there-never-enough-logs-during-an-incident-response/a/d-id/1341411
+
+•Windows
+https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/index.html
